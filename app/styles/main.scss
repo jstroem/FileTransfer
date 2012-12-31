@@ -1,0 +1,22 @@
+@import "compass_twitter_bootstrap";
+
+.page {
+	display: none;
+}
+
+.progress {
+	position: relative;
+}
+
+.progress .progressInfo {
+    display: block;
+    width: 100%;
+    font-weight:bold;
+    text-align: center;
+    position: absolute;
+}
+
+.hero-unit .center {
+	text-align:center;
+	width:100%;
+}

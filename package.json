@@ -1,0 +1,10 @@
+{
+  "author": "Jesper Lindstrøm Nielsen",
+  "name": "FileTransfer",
+  "version": "0.0.1",
+  "dependencies": {
+  		"websocket": "1.0.7",
+  		"node-static": "0.6.6"
+  	},
+  "devDependencies": {}
+}
