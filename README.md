@@ -1,4 +1,7 @@
 FileTransfer
 ============
 
-FileTransfer via. WebRTC and HTML5
+Doing file transfer with WebRTC DataChannels.
+This only works in Chrome Canary so far.
+
+Demo comming...
